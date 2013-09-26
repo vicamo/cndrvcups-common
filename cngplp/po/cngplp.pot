@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-25 16:05+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gladestr.h:1
+msgid "(1 to 9999)"
+msgstr ""
+
+#: gladestr.h:2
+msgid "*"
+msgstr ""
+
+#: gladestr.h:3
+msgid "All Pages"
+msgstr ""
+
+#: gladestr.h:4
+msgid "Cancel"
+msgstr ""
+
+#: gladestr.h:5
+msgid "Copies:"
+msgstr ""
+
+#: gladestr.h:6
+msgid "Even Number Pages"
+msgstr ""
+
+#: gladestr.h:7
+msgid "Name:"
+msgstr ""
+
+#: gladestr.h:8
+msgid "Odd Number Pages"
+msgstr ""
+
+#: gladestr.h:9
+msgid "Options"
+msgstr ""
+
+#: gladestr.h:10
+msgid "Page Range"
+msgstr ""
+
+#: gladestr.h:11
+msgid "Print"
+msgstr ""
+
+#: gladestr.h:12
+msgid "Print Pages"
+msgstr ""
+
+#: gladestr.h:13
+msgid "Print Range"
+msgstr ""
+
+#: gladestr.h:14
+msgid "Printer"
+msgstr ""
+
+#: gladestr.h:15
+msgid "Properties..."
+msgstr ""
+
+#: gladestr.h:16
+msgid "Reverse Order"
+msgstr ""
+
+#: gladestr.h:17
+msgid "Save"
+msgstr ""
+
+#: gladestr.h:18
+msgid "Set as Default"
+msgstr ""
+
+#: gladestr.h:19
+msgid "cngplp"
+msgstr ""
+
+#: src/mainwnd.c:589 src/mainwnd.c:592
+msgid "Print and Save Settings"
+msgstr ""
+
+#: src/mainwnd.c:596 src/mainwnd.c:599
+msgid "Save Settings"
+msgstr ""
